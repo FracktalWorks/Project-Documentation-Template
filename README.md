@@ -12,6 +12,9 @@ This template helps you document your hardware project from start to finish. It 
 ### Markdown Guides & Recources:
 - Online markdown editor: https://dillinger.io/
 - Markdown Guide: https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet
+
+### Github Basics:
+- Making a repository: https://www.youtube.com/watch?v=-RZ03WHqkaY
 ---
 # Project Title
 ## 1. Project Overview

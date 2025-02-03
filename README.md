@@ -10,8 +10,8 @@ This template helps you document your hardware project from start to finish. It 
 4. **Finalize the Documentation** – Once complete, structure the document for clarity and future reference.
 
 ### Markdown Guides & Recources:
-Online markdown editor: https://dillinger.io/
-Markdown Guide: https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet
+- Online markdown editor: https://dillinger.io/
+- Markdown Guide: https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet
 ---
 # Project Title
 ## 1. Project Overview

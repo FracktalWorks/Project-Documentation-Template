@@ -4,8 +4,8 @@
 This template helps you document your hardware project from start to finish. It includes sections for defining goals, tracking progress, and organizing resources. 
 
 ### Steps to Use:
-1. **Start with the Project Overview** – Define the high-level details, goals, and initial requirements.
-2. **Use the Development Log** – List research links, ideas, and steps as you work on the project.
+1. **Start with the Project Overview (Seciton 1 and 2)** – Define the high-level details, goals, and initial requirements.
+2. **Use the Development Log (Section 3)** – List research links, ideas, and steps as you work on the project.
 3. **Refine Requirements and Steps** – As the project evolves, update the requirements and process steps.
 4. **Finalize the Documentation** – Once complete, structure the document for clarity and future reference.
 
